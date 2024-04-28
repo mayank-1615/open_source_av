@@ -23,6 +23,6 @@ This link provides links to latest papers on radar/ camera/ LiDAR fusion:
 ### Implementation of Radar-Camera- Lidar
 
 # Youtube videos
-https://youtube.com/playlist?list=PLfFECQoO-yfSMhWXHF5j70JPflOsemPD8&si=KYyuMGQSntw8kkMb
-https://www.youtube.com/watch?v=JEVtVrNFb30 - Self-Driving Cars - Lecture 10.5 (Object Detection: 3D Object Detection)
+- https://youtube.com/playlist?list=PLfFECQoO-yfSMhWXHF5j70JPflOsemPD8&si=KYyuMGQSntw8kkMb
+- https://www.youtube.com/watch?v=JEVtVrNFb30 - Self-Driving Cars - Lecture 10.5 (Object Detection: 3D Object Detection)
 
